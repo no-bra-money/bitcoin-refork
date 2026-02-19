@@ -5,6 +5,10 @@ Makes no more sense to double-reward holders, than it does to double-spend; so m
 
 Plan to implement AI-agents to 'File-Diff', and log recommended changes: which need to be verified by Humans.
 
+Donations of bitcoin $BTC, fiat etc most welcome to progress this project; which is in parallel with a new ALT-Coin
+project & protocol; just needed a working version of Bitcoin to integrate with, and no-idea why someone else hasn't made this 
+re-forkable as clean your own project; seems as if Bitcoin-Core and those holding BTC wanted to obstruct such clones (imho).
+
 De-Dollarise World-Trade by 24-year '(shadow) staFle-coin' morph to National/Federal $BTC-xxx 'Reserve-Bank' Treasuries,
 scaled towards a 2050 World-Fed, alongside existing 'stateless' Crypto... 
 =====================================
