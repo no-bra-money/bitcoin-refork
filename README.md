@@ -5,7 +5,8 @@ Makes no more sense to double-reward holders, than it does to double-spend; so m
 
 Plan to implement AI-agents to 'File-Diff', and log recommended changes: which need to be verified by Humans.
 
-Your own $BTCxxxx, an empty (AltCoin) / partial $BTCxxxx (AltCoin) clone 'Fork'... 
+De-Dollarise World-Trade by 24-year '(shadow) staFle-coin' morph to National/Federal $BTC-xxx 'Reserve-Bank' Treasuries,
+scaled towards a 2050 World-Fed, alongside existing 'stateless' Crypto... 
 =====================================
 
 (2026 Valentine's) Re-Fork is a new (2026) ambitious crypto-punk project, to enable 'financial rebels' to replace $USD.
