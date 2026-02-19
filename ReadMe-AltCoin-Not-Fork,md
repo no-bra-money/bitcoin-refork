@@ -1,5 +1,7 @@
-Re-Fork is neither hard-, nor soft-fork.but Alt-Coin re-using Blockchain code with checks tweaked.
-=======================
+Re-Fork is neither hard-, nor soft-fork, but Alt-Coin re-using Blockchain code with checks tweaked.
+===================================================================================================
++++++++++++++++++++++  File added by bitcoin-refork (not in bitcoin-core)  ++++++++++++++++++++++++
+===================================================================================================
 
 A soft-fork results in only 1 blockchain; whereas a hard-fork creates 2 where there was 1.
 
