@@ -1,5 +1,5 @@
 bitcoin-refork - Alt-Fork your own $BTCxxxx, as empty or partial (dated bitcoin-core block)...  
-==============================================================================================================================
+=============================================
 Project to 'Alt-Fork' (File-Diff/Re-Gen of) Bitcoin-Core $BTC code, but 'empty' bar genesis or partial-coins up to dated block.
 Makes no more sense to double-reward holders, than it does to double-spend; so make a limited decision.
 
@@ -11,7 +11,7 @@ re-forkable as clean your own project; seems as if Bitcoin-Core and those holdin
 
 De-Dollarise World-Trade by 24-year '(shadow) staFle-coin' morph to National/Federal $BTC-xxx 'Reserve-Bank' Treasuries,
 scaled towards a 2050 World-Fed, alongside existing 'stateless' Crypto... 
-=====================================
+=============================================
 
 (2026 Valentine's) Re-Fork is a new (2026) ambitious crypto-punk project, to enable 'financial rebels' to replace $USD.
 
@@ -39,10 +39,10 @@ but England has Magna-Carta fair trial ignored by UK, even though EWHC/RCJ court
 
 Using proven, open-source $BTC code, as $BTCxxxx , but as 'blank' (empty) 
 
-==============================================================================================================================
+=============================================
 Bitcoin-Refork is released under the terms of the Bitcoin Core's MIT license, with additional extension here...
-==============================================================================================================================
-  * * * NO UNAUTHORIZED CHANGES BELOW HERE * * *
+=============================================
+* * * NO UNAUTHORIZED CHANGES BELOW HERE * * *
   Licence must be read to append the following additional condition(s):
   (0) No 1-person (or immediate-family collectively pro-rata) may own more than 4000x their share of any GDP or budget
       allocation, pro-rata to any population contained within any associated geographical unit.
@@ -87,10 +87,14 @@ Bitcoin-Refork is released under the terms of the Bitcoin Core's MIT license, wi
       or as limited by respitory.
   (8) Within 'reasonable-time' (commensurate with support resources) a governance board or DAO should take over this project;
       and in the event of no changes within 1 year, it's fair-game to locate any passwords, keys, control etc.
+=============================================
 Above is...
 (c) Feb-14 2026, Mattress-Mick@proton.me of Howth, (a sweaty, bra-coin activist) opposes rival 'No-Bra-Money' (Mattress-Mick of Dublin).
 ... No changes above without consent, and Following is the standard Bitcoin (Core) read-me, so no changes beyond this point. 
-==============================================================================================================================
+=============================================
+https://www.timesnownews.com/the-buzz/article/no-bra-money-shop-tells-customers-to-stop-paying-sweat-soaked-cash-stored-in-bras-during-heatwave/788668
+https://en.wikipedia.org/wiki/Michael_Flynn_(businessman)
+=============================================
 
 
 Bitcoin Core integration/staging tree
