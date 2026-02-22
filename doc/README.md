@@ -1,3 +1,34 @@
+Re-Fork is neither hard-, nor soft-fork, but Alt-Coin re-using Blockchain code with checks tweaked.
+===================================================================================================
++++++++++++++++++++++  File added by bitcoin-refork (not in bitcoin-core)  ++++++++++++++++++++++++
+===================================================================================================
+
+A soft-fork results in only 1 blockchain; whereas a hard-fork creates 2 where there was 1.
+
+Soft forks and hard forks are software / protocol upgrades to a blockchain,
+that differ in compatibility and impact.
+
+Soft Fork: A backward-compatible upgrade. where new rules are stricter than old ones.
+Newer versions check for the feature, and adapt accordingly.
+Nodes not upgraded can still validate new blocks, so the network remains unified. 
+It does not create a new blockchain or new tokens.  
+  Example: Bitcoin’s SegWit upgrade improved scalability without splitting the chain. 
+
+Hard Fork: A non-backward-compatible change that creates a permanent split. 
+Nodes must upgrade to stay on the new chain. If not, they remain on the original chain, 
+resulting in two separate blockchains and two separate cryptocurrencies.  
+  Example: Bitcoin Cash was created from a hard fork of Bitcoin, 
+           giving existing holders of Bitcoin, an equivalent extra amount of Bitcoin Cash;
+           to some this seems a repeat of the Double-Spend problem, unduely burdening it. 
+
+Alt-Coin: A different Genesis-Block,and thus Blockchain:
+
+Re-Fork: If a Blockchain re-uses Blockchain code (with only necessary tweaks), 
+but renews Genesis-Block and Code / Genesis-Block Verification, then techincally it's 
+an (Alt-Coin) Re-Fork.
+
+===================================================================================================
+
 Bitcoin Core
 =============
 
