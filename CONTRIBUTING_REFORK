@@ -11,6 +11,30 @@ In general, replacing link will be something like...
   https://bra-coin.com
 ... but takes time to mirror where the Bitcoin Core version goes, so expect 404 missing page.
 
+To Add Contributors
+----------------
+
+It's important to have multiple contributors, so can Respisitory be Searched for...
+
+Navigating to ...
+{Repository}Settings|General|Collaborators|ManageAccess|Add
+... added the following Collaborator Requests...
+will say 'Pending Response' until accepted or refused...
+
+Invitees get a Notification | Accept...
+- email from github, notifying collab-request
+- notification within github
+
+Collaborators added...
+---------------------
+
+bitcoin-refork (Alan-Carr Jelly-Fish | "straits-of-hormuz" )
+
+ReFork Generally
+----------------
+
+Generally only _REFORK files are changed, for the the ReFork itself
+
 *** In general,this is NOT to make any 'other' changes to Bitcoin Core, use Bitcoin Coure,
 and our change process at Bitcoin-Refork will feed back here. This is solely for any
 required code / file changes to get rid of 'inbuilt' Genesis-Block, and bias towards existing
