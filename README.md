@@ -1,5 +1,8 @@
 bitcoin-refork - Alt-Fork your own $BTCxxxx, as empty or partial (dated bitcoin-core block)...  
 =============================================
+
+See all this repository's code on https://github.com/no-bra-money/bitcoin-refork
+
 Project to 'Alt-Fork' (File-Diff/Re-Gen of) Bitcoin-Core $BTC code, but 'empty' bar genesis or partial-coins up to dated block.
 Makes no more sense to double-reward holders, than it does to double-spend; so make a limited decision.
 
